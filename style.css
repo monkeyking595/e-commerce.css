@@ -1,0 +1,9 @@
+h1 {
+  color: rgb( 56, 100, 124);
+  font-family: Times New Roman;
+  width: 100px;
+  height: 120px;
+  borer: thin;
+  background-color: rgb(100, 129, 200);
+  padding: 10px 20px;
+}
